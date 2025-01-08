@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+*.so
+
+.env
+.venv
+env/
+venv/
+
+*.log
+
+models/*.h5
+
+utils/class_labels.py
+data/output_video.mp4
